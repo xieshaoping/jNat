@@ -1,0 +1,11 @@
+==========注意:::::test.j2eeall.com测试共享地址，随时可能被顶替=============
+
+1，请到www.j2eeall.com申请免费唯一key
+2, 在config.ini文件中的JNat.key赋值申请到的key
+3，端口填写
+4，web.path可不填写，具体用法可访问官网查看
+5，windows 下执行jnat.bat    liunx系统下执行jnat.sh
+
+
+
+=================执行jnat需要java1.7（含）以上版本环境===========

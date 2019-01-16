@@ -1,0 +1,1 @@
+java -cp lib/* com.j2eeall.client.Client
